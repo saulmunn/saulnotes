@@ -1,0 +1,4 @@
+[ ] add on-hover for hyperlinks to be half-grey
+[ ] add all the cool animations for the opening poem
+[ ] take out the "back to home" "liked this note" stuff on the homepage
+[ ] make the "back to home" "liked this note" stuff less visible
