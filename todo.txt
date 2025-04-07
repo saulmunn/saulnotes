@@ -2,3 +2,7 @@
 [ ] add all the cool animations for the opening poem
 [ ] take out the "back to home" "liked this note" stuff on the homepage
 [ ] make the "back to home" "liked this note" stuff less visible
+[ ] cuter animation above "liked this note? let me know!"
+[ ] add hyperlinks to the "noted" poem
+    [ ] colors
+    [ ] resonate, attuned, coase
